@@ -1,7 +1,7 @@
 <head>
   <img src="https://i.pinimg.com/originals/fb/49/66/fb496654ca20d03cc8725e52426d35fa.gif" alt="My header">
 </head>
-### Hi there 👋
+<h1> Hi there 👋</h1>
 <table>
   <tr>
     <td>- 🔭 I’m currently working on a cool data analysis project </td>
