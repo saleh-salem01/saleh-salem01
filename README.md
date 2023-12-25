@@ -1,5 +1,5 @@
 <head>
-  <img src="[myGIF.gif](https://ivetukasma.blogspot.com/2016/10/anonimu-nuomones.html)" alt="My header">
+  <img src="https://media.giphy.com/media/AKaNwODuQ4ivm/giphy.gif" alt="My header">
 </head>
 ### Hi there 👋
 <table>
