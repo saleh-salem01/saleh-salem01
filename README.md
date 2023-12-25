@@ -1,3 +1,6 @@
+<head>
+  <img src="[myGIF.gif](https://ivetukasma.blogspot.com/2016/10/anonimu-nuomones.html)" alt="My header">
+</head>
 ### Hi there 👋
 <table>
   <tr>
