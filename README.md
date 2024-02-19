@@ -1,5 +1,5 @@
 <head>
-  <img src="https://raw.githubusercontent.com/Elteoremadebeethoven/AnimacionesConManim/master/HelloWorld.gif" alt="My header"  style="width: 820px; height: 312px; object-fit: cover;>
+  <img src="https://raw.githubusercontent.com/Elteoremadebeethoven/AnimacionesConManim/master/HelloWorld.gif" alt="My header"  style="width: 820px; height: 312px;>
 </head>
 <h1> Hi there 👋</h1>
 <table>
