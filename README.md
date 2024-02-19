@@ -1,5 +1,5 @@
 <head>
-  <img src="https://tenor.com/view/hello-world-seytonic-coding-hello-gif-10598764531210485569" alt="My header">
+  <img src="https://raw.githubusercontent.com/Elteoremadebeethoven/AnimacionesConManim/master/HelloWorld.gif" alt="My header" style="width: 100%; height: 100%; object-fit: cover;>
 </head>
 <h1> Hi there 👋</h1>
 <table>
