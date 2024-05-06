@@ -1,5 +1,5 @@
 <head>
-  <img src="https://raw.githubusercontent.com/Elteoremadebeethoven/AnimacionesConManim/master/HelloWorld.gif" alt="My header">
+  <img src="https://raw.githubusercontent.com/Elteoremadebeethoven/AnimacionesConManim/master/HelloWorld.gif" alt="My header" style="width: 200px;"> <!-- Adjust the width as needed -->
 </head>
 <h1> Hi there 👋</h1>
 <table>
@@ -10,7 +10,7 @@
     <td>- 🌱 I’m currently learning .NET </td>
   </tr>
    <tr>
-    <td>- 📫 How to reach me: s.salem.1042000@gmail.com</td>
+    <td>- 📫 How to reach me: s.104.aleh@gmail.com</td>
   </tr>
 </table>
 
