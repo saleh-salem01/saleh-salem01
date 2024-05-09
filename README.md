@@ -10,7 +10,7 @@
     <td>- 🌱 I’m currently learning .NET </td>
   </tr>
    <tr>
-    <td>- 📫 How to reach me: s.104.aleh@gmail.com</td>
+    <td>- 📫 You can contact me through: s.104.aleh@gmail.com</td>
   </tr>
 </table>
 
