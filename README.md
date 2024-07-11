@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Welcome to my GitHub profile!
-<img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Coding Gif" width="200"/>
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="Coding Gif" width="200"/>
 
 ![Software Engineer](https://img.shields.io/badge/Software-Engineer-blue)
 ![Learning .NET](https://img.shields.io/badge/Learning-.NET-green)
