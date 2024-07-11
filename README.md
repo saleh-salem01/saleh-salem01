@@ -9,4 +9,4 @@
 🔭 I’m a **Software Engineer** with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 🌱 I’m currently diving deep into **.NET** to enhance my skills and stay updated with the latest trends in software development.
 
-📫 Feel free to reach out to me at: [salehsalem10dev@gmail.com](mailto:s.104.aleh@gmail.com) for any inquiries, collaborations, or just to say hi!
+📫 Feel free to reach out to me at: [salehsalem10dev@gmail.com](mailto:salehsakem10dev@gmail.com) for any inquiries, collaborations, or just to say hi!
